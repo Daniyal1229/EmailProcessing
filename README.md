@@ -10,6 +10,9 @@ This Node.js application automates email processing for Gmail and Outlook accoun
 - Automated response generation
 - Redis-based job queue for scalable processing
 
+## Video link
+https://drive.google.com/file/d/1LjVt_Qy66eRLV-Y3vTD37wiHKGYhyuPS/view?usp=drive_link
+
 ## Prerequisites
 
 - Node.js (v14 or later)
